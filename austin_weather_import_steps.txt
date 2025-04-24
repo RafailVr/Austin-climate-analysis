@@ -1,0 +1,4 @@
+1. Cleaned CSV in Excel (removed T values, fixed headers)
+2. Used MySQL Workbench > Table Data Import Wizard
+3. Created table in schema `project` → table `austin_weather`
+4. Confirmed import via SELECT * and COUNT(*)

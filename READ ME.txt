@@ -1,0 +1,4 @@
+Austin Climate Analysis (2013–2017)
+
+This repository contains a complete data analytics project exploring climate trends in Austin, Texas using SQL and Tableau. It includes cleaned data, database import documentation, SQL queries, interactive visualizations, and key insights.
+
